@@ -1,0 +1,32 @@
+I am installing usefull softwares for your system 
+1 icecream screen recorder for online classess recording
+2 winrar for compressed file formats will not see directly
+3 utorrent is used for downloading any meterial from internet if internet gone and came after sometime it will autometically download your files
+4 ccleaner for system freeness(it means if system hangings and long time batery stand and better ferformance )
+
+
+**************************
+We should do some manual commands run on this system every week or month to perform better performance
+
+
+1 press Windows symbol + R
+or 
+open command prompt
+
+		> temp
+		> %temp%
+		> prefetch
+		> recent
+		> tree
+
+These are mandatory tools to increase system performance
+
+after that run ccleaner to clear unwanted cookies and virus threads
+
+***************************************************
+		
+freecoursesite.com
+
+desirecourse.com
+
+aws and devops programer
